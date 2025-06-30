@@ -1,6 +1,6 @@
 {
   "name": "@echoad/pocketjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
   "description": "PocketJS makes it easy to compose and broadcast Pocket and Cosmos messages",
   "main": "index.js",
@@ -39,14 +39,14 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "@cosmology/lcd": "^0.14.0",
+    "@cosmology/telescope": "^1.12.8",
     "@interchainjs/cosmos": "1.11.5",
     "@interchainjs/cosmos-types": "1.11.5",
     "@interchainjs/encoding": "1.11.5",
     "@interchainjs/pubkey": "1.11.5",
     "@interchainjs/types": "1.11.5",
-    "@interchainjs/utils": "1.11.5",
-    "@cosmology/lcd": "^0.14.0",
-    "@cosmology/telescope": "^1.12.8"
+    "@interchainjs/utils": "1.11.5"
   },
   "keywords": []
 }

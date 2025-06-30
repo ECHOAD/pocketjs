@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-proto/main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-sdk/main" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-sdk/release/v0.50.x" vcs="Git" />
