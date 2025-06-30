@@ -1,0 +1,13 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 0.2.0 (2025-06-28)
+
+### Features
+
+- initialize Pocket Network project with configuration files and asset definitions ([7f46090](https://github.com/ECHOAD/pocketjs/commit/7f460904277f4dd62aa3e7595b874b059de20183))
+- update package names and descriptions for consistency across modules ([18ab609](https://github.com/ECHOAD/pocketjs/commit/18ab609b9419ec5457a8f06ab87a5525243437ee))
+- update package names and descriptions for consistency across modules ([94fe683](https://github.com/ECHOAD/pocketjs/commit/94fe6838a9abfb7ec9795d34f698ce5559e35126))
+- update package names and descriptions for consistency across modules ([70b046c](https://github.com/ECHOAD/pocketjs/commit/70b046ca6e54dd442d07bb2657f32ef3158c0ff8))

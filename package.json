@@ -19,7 +19,7 @@
     "build": "lerna run build --stream",
     "lint": "lerna run lint --parallel",
     "test": "lerna run test --stream --scope @echoad/pocketjs",
-    "codegen": "lerna run codegen --stream --scope @echoad/pocketjs",
+    "codegen": "lerna run codegen --stream",
     "symlink": "symlink-workspace --logLevel error",
     "postinstall": "yarn symlink"
   },
