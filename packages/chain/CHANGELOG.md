@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2025-06-30)
+
+
+### Features
+
+* initialize Pocket Network project with chain and asset definitions ([7fc12a1](https://github.com/echoad/pocketjs/commit/7fc12a1d7bd942424aa55b860e7a5894dd635476))
+* initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/echoad/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
+
+
+
+
+
 # 0.1.0 (2025-06-30)
 
 

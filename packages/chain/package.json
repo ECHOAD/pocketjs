@@ -1,6 +1,6 @@
 {
   "name": "@echoad/pokt-chain",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
   "description": "Chain Registry info for Pocket Network",
   "main": "dist/index.js",
@@ -21,12 +21,14 @@
     "prepare": "npm run build"
   },
   "devDependencies": {
-    "typescript": "^5.8.3",
+    "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
-    "rimraf": "^6.0.1"
+    "typescript": "^5.8.3",
+    "@types/node": "^22.14.1",
+    "copyfiles": "^2.4.1"
   },
   "dependencies": {
-    "@chain-registry/types": "^2.0.13",
+    "@chain-registry/types": "^1.71.186",
     "@chain-registry/utils": "^2.0.13"
   }
 }
