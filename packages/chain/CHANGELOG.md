@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/echoad/pocketjs/compare/@echoad/pokt-chain@0.4.0...@echoad/pokt-chain@0.5.0) (2025-06-30)
+
+### Features
+
+- enhance build process by adding copy script and updating build command ([df34e24](https://github.com/echoad/pocketjs/commit/df34e247517f88fd0d3abe9106c961f476cc713e))
+- enhance build process by adding copy script and updating build command ([a7af99c](https://github.com/echoad/pocketjs/commit/a7af99ce9e078336b01fe53698cf4bdc3383f408))
+
 # [0.4.0](https://github.com/echoad/pocketjs/compare/@echoad/pokt-chain@0.4.0...@echoad/pokt-chain@0.4.0) (2025-06-30)
 
 ### Features
