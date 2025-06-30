@@ -1264,7 +1264,7 @@
     "@jridgewell/trace-mapping" "0.3.9"
 
 "@echoad/pocketjs@file:C:\\Users\\adria\\poktjs\\packages\\pocketjs":
-  version "0.1.0"
+  version "0.3.0"
   resolved "file:packages/pocketjs"
   dependencies:
     "@cosmology/lcd" "^0.14.0"
@@ -1277,11 +1277,11 @@
     "@interchainjs/utils" "1.11.5"
 
 "@echoad/pokt-chain@file:C:\\Users\\adria\\poktjs\\packages\\chain":
-  version "0.1.0"
+  version "0.3.0"
   resolved "file:packages/chain"
   dependencies:
-    "@babel/runtime" "^7.26.0"
     "@chain-registry/types" "^2.0.13"
+    "@chain-registry/utils" "^2.0.13"
 
 "@eslint-community/eslint-utils@^4.2.0", "@eslint-community/eslint-utils@^4.4.0":
   version "4.7.0"
@@ -7471,15 +7471,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.2.1.tgz"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^2.6.2:
+prettier@^2.6.2, prettier@^2.8.8:
   version "2.8.8"
   resolved "https://registry.npmjs.org/prettier/-/prettier-2.8.8.tgz"
   integrity sha512-tdN8qQGvNjw4CHbY+XXk0JgCXn9QiF21a55rBe5LJAU+kDyC4WQn4+awm2Xfk2lQMk5fKup9XgzTZtGkjBdP9Q==
-
-prettier@^3.0.2:
-  version "3.6.2"
-  resolved "https://registry.npmjs.org/prettier/-/prettier-3.6.2.tgz"
-  integrity sha512-I7AIg5boAr5R0FFtJ6rCfD+LFsWHp81dolrFD8S79U9tb8Az2nGrJncnMSnys+bpQJfRUzqs9hnA81OAA3hCuQ==
 
 pretty-format@^29.0.0, pretty-format@^29.7.0:
   version "29.7.0"

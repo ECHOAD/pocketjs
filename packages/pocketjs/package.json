@@ -1,6 +1,6 @@
 {
   "name": "@echoad/pocketjs",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
   "description": "PocketJS makes it easy to compose and broadcast Pocket and Cosmos messages",
   "main": "index.js",
