@@ -15,8 +15,9 @@
     "url": "https://github.com/echoad/pocketjs"
   },
   "scripts": {
+    "copy": "copyfiles -f ../../LICENSE README.md package.json dist",
     "clean": "rimraf dist",
-    "build": "npm run clean && tsc",
+    "build": "npm run clean && tsc && tsc -p tsconfig.esm.json && npm run copy",
     "codegen": "ts-node scripts/codegen.ts",
     "prepare": "npm run build"
   },
