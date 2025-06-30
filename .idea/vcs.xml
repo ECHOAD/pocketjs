@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-proto/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-sdk/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-sdk/release/v0.50.x" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/cosmos-sdk/release/v0.53.x" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/gogoproto/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/ibc-go/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/ibc/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmos/ics23/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/cosmwasm/wasmd/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/gogo/protobuf/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/googleapis/googleapis/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/injectivelabs/sdk-go/master" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/pokt-network/poktroll/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/protocolbuffers/protobuf/main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/packages/pocketjs/git-modules/tendermint/tendermint/main" vcs="Git" />
+  </component>
+</project>
