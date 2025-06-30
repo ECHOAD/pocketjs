@@ -3,44 +3,37 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# 0.3.0 (2025-06-30)
-
+# 0.4.0 (2025-06-30)
 
 ### Features
 
-* add Pocket Network chain and asset definitions for mainnet and testnet ([486948d](https://github.com/echoad/pocketjs/commit/486948dc00b06565f08b0c263b8e85c6ed71bb58))
-* initialize Pocket Network project with chain and asset definitions ([7fc12a1](https://github.com/echoad/pocketjs/commit/7fc12a1d7bd942424aa55b860e7a5894dd635476))
-* initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/echoad/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
-* update Prettier configuration and add initial TypeScript files ([8e6504c](https://github.com/echoad/pocketjs/commit/8e6504c61308a754419c5b38f37d52dc167a1890))
+- add Pocket Network chain and asset definitions for mainnet and testnet ([6380418](https://github.com/echoad/pocketjs/commit/63804188198b2e2fa6a03241a56a7ef700084219))
+- add Pocket Network chain and asset definitions for mainnet and testnet ([486948d](https://github.com/echoad/pocketjs/commit/486948dc00b06565f08b0c263b8e85c6ed71bb58))
+- initialize Pocket Network project with chain and asset definitions ([7fc12a1](https://github.com/echoad/pocketjs/commit/7fc12a1d7bd942424aa55b860e7a5894dd635476))
+- initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/echoad/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
+- update Prettier configuration and add initial TypeScript files ([8e6504c](https://github.com/echoad/pocketjs/commit/8e6504c61308a754419c5b38f37d52dc167a1890))
 
+# 0.3.0 (2025-06-30)
 
+### Features
 
-
-
+- add Pocket Network chain and asset definitions for mainnet and testnet ([486948d](https://github.com/echoad/pocketjs/commit/486948dc00b06565f08b0c263b8e85c6ed71bb58))
+- initialize Pocket Network project with chain and asset definitions ([7fc12a1](https://github.com/echoad/pocketjs/commit/7fc12a1d7bd942424aa55b860e7a5894dd635476))
+- initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/echoad/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
+- update Prettier configuration and add initial TypeScript files ([8e6504c](https://github.com/echoad/pocketjs/commit/8e6504c61308a754419c5b38f37d52dc167a1890))
 
 # 0.2.0 (2025-06-30)
 
-
 ### Features
 
-* initialize Pocket Network project with chain and asset definitions ([7fc12a1](https://github.com/echoad/pocketjs/commit/7fc12a1d7bd942424aa55b860e7a5894dd635476))
-* initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/echoad/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
-
-
-
-
+- initialize Pocket Network project with chain and asset definitions ([7fc12a1](https://github.com/echoad/pocketjs/commit/7fc12a1d7bd942424aa55b860e7a5894dd635476))
+- initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/echoad/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
 
 # 0.1.0 (2025-06-30)
 
-
 ### Features
 
-* initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/ECHOAD/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
-
-
-
-
-
+- initialize Pocket Network project with chain and asset definitions ([f7057cd](https://github.com/ECHOAD/pocketjs/commit/f7057cd71641a38e6f7d2b638556ae9983770e2e))
 
 # 0.2.0 (2025-06-28)
 

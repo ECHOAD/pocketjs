@@ -1,6 +1,6 @@
 {
   "name": "@echoad/pokt-chain",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
   "description": "Chain Registry info for Pocket Network",
   "main": "dist/index.js",
