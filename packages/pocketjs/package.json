@@ -1,6 +1,6 @@
 {
   "name": "@echoad/pocketjs",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "author": "Adrian Estevez <adrianeea.ae@gmail.com>",
   "description": "PocketJS makes it easy to compose and broadcast Pocket and Cosmos messages",
   "main": "index.js",
@@ -48,5 +48,6 @@
     "@interchainjs/types": "1.11.5",
     "@interchainjs/utils": "1.11.5"
   },
-  "keywords": []
+  "keywords": [],
+  "gitHead": "8d10df694b4b76990e3b72e5f10eb679b8359b72"
 }
